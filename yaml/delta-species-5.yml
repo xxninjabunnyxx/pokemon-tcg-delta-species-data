@@ -1,0 +1,95 @@
+---
+id: ex11-5
+name: Flareon δ
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '70'
+types:
+- Fire
+- Metal
+evolvesFrom: Eevee
+rules:
+- This Pokémon is both Fire Metal type.
+attacks:
+- name: Delta Search
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Search your deck for a Holon Energy card and attach it to Flareon. Shuffle
+    your deck afterward.
+- name: Return Burn
+  cost:
+  - Fire
+  - Metal
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: You may return an Energy card attached to Flareon to your hand. If you do,
+    the Defending Pokémon is now Burned.
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex11
+  name: Delta Species
+  series: EX
+  printedTotal: 113
+  total: 114
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DS
+  releaseDate: 2005/10/31
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/ex11/symbol.png
+    logo: https://images.pokemontcg.io/ex11/logo.png
+number: '5'
+artist: Kouki Saitou
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 136
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex11/5.png
+  large: https://images.pokemontcg.io/ex11/5_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex11-5
+  updatedAt: 2023/09/10
+  prices:
+    holofoil:
+      low: 39.99
+      mid: 54.99
+      high: 79.99
+      market: 54.18
+      directLow: 
+    reverseHolofoil:
+      low: 54.99
+      mid: 92.98
+      high: 200.0
+      market: 116.08
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex11-5
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 20.2
+    lowPrice: 5.9
+    trendPrice: 30.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 37.5
+    reverseHoloLow: 7.0
+    reverseHoloTrend: 51.18
+    lowPriceExPlus: 9.0
+    avg1: 18.0
+    avg7: 20.91
+    avg30: 27.74
+    reverseHoloAvg1: 45.0
+    reverseHoloAvg7: 50.36
+    reverseHoloAvg30: 39.52

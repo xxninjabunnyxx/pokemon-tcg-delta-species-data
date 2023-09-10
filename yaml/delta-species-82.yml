@@ -1,0 +1,91 @@
+---
+id: ex11-82
+name: Sandshrew
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Fighting
+evolvesTo:
+- Sandslash
+attacks:
+- name: Dig Under
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: ''
+  text: Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon.
+    This attack's damage isn't affected by Weakness or Resistance.
+- name: Scratch
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex11
+  name: Delta Species
+  series: EX
+  printedTotal: 113
+  total: 114
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DS
+  releaseDate: 2005/10/31
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/ex11/symbol.png
+    logo: https://images.pokemontcg.io/ex11/logo.png
+number: '82'
+artist: Tomokazu Komiya
+rarity: Common
+nationalPokedexNumbers:
+- 27
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex11/82.png
+  large: https://images.pokemontcg.io/ex11/82_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex11-82
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.28
+      mid: 0.84
+      high: 2.49
+      market: 0.9
+      directLow: 0.28
+    reverseHolofoil:
+      low: 6.99
+      mid: 7.89
+      high: 13.99
+      market: 9.3
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex11-82
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.44
+    lowPrice: 0.04
+    trendPrice: 0.47
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 1.44
+    reverseHoloTrend: 6.74
+    lowPriceExPlus: 0.07
+    avg1: 0.05
+    avg7: 0.48
+    avg30: 0.47
+    reverseHoloAvg1: 4.0
+    reverseHoloAvg7: 7.15
+    reverseHoloAvg30: 3.77
